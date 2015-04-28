@@ -7,10 +7,12 @@ html, body {
 
 body {
     color: #0C1F31;
-    background: #fff;
+    background: #2C2C2C;
     font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-align: center;
+    color: #DCDCDC;
 }
+
 
 .wrapper {
     width: 900px;
@@ -93,5 +95,5 @@ iframe {
 
 .links a {
     text-decoration: none;
-    color: #0C1F31;
+    color: #9C9C9C;
 }

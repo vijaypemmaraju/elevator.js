@@ -106,7 +106,7 @@ var Elevator = (function() {
         
         // No custom duration set, so we travel at pixels per millisecond. (0.75px per ms)
         if( !customDuration ) {
-            duration = (startPosition * 1.5);
+            duration = (startPosition * 4.8);
         }
 
         requestAnimationFrame( animateLoop );
